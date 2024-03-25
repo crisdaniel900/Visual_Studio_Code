@@ -1,0 +1,14 @@
+C:\Users\luigu\OneDrive\Documentos\2024\Visual_Studio_Code\pagina11\obj\Debug\net8.0\pagina11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luigu\OneDrive\Documentos\2024\Visual_Studio_Code\pagina11\obj\Debug\net8.0\pagina11.AssemblyInfoInputs.cache
+C:\Users\luigu\OneDrive\Documentos\2024\Visual_Studio_Code\pagina11\obj\Debug\net8.0\pagina11.AssemblyInfo.cs
+C:\Users\luigu\OneDrive\Documentos\2024\Visual_Studio_Code\pagina11\obj\Debug\net8.0\pagina11.csproj.CoreCompileInputs.cache
+C:\Users\luigu\OneDrive\Documentos\2024\Visual_Studio_Code\pagina11\bin\Debug\net8.0\pagina11.exe
+C:\Users\luigu\OneDrive\Documentos\2024\Visual_Studio_Code\pagina11\bin\Debug\net8.0\pagina11.deps.json
+C:\Users\luigu\OneDrive\Documentos\2024\Visual_Studio_Code\pagina11\bin\Debug\net8.0\pagina11.runtimeconfig.json
+C:\Users\luigu\OneDrive\Documentos\2024\Visual_Studio_Code\pagina11\bin\Debug\net8.0\pagina11.dll
+C:\Users\luigu\OneDrive\Documentos\2024\Visual_Studio_Code\pagina11\bin\Debug\net8.0\pagina11.pdb
+C:\Users\luigu\OneDrive\Documentos\2024\Visual_Studio_Code\pagina11\obj\Debug\net8.0\pagina11.dll
+C:\Users\luigu\OneDrive\Documentos\2024\Visual_Studio_Code\pagina11\obj\Debug\net8.0\refint\pagina11.dll
+C:\Users\luigu\OneDrive\Documentos\2024\Visual_Studio_Code\pagina11\obj\Debug\net8.0\pagina11.pdb
+C:\Users\luigu\OneDrive\Documentos\2024\Visual_Studio_Code\pagina11\obj\Debug\net8.0\pagina11.genruntimeconfig.cache
+C:\Users\luigu\OneDrive\Documentos\2024\Visual_Studio_Code\pagina11\obj\Debug\net8.0\ref\pagina11.dll
