@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luigu\\OneDrive\\Documentos\\2024\\Visual_Studio_Code\\pagina11\\pagina11.csproj": {}
+    "C:\\Users\\luigu\\OneDrive\\Documentos\\2024\\Visual_Studio_Code\\Pagina11\\pagina11.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luigu\\OneDrive\\Documentos\\2024\\Visual_Studio_Code\\pagina11\\pagina11.csproj": {
+    "C:\\Users\\luigu\\OneDrive\\Documentos\\2024\\Visual_Studio_Code\\Pagina11\\pagina11.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luigu\\OneDrive\\Documentos\\2024\\Visual_Studio_Code\\pagina11\\pagina11.csproj",
+        "projectUniqueName": "C:\\Users\\luigu\\OneDrive\\Documentos\\2024\\Visual_Studio_Code\\Pagina11\\pagina11.csproj",
         "projectName": "pagina11",
-        "projectPath": "C:\\Users\\luigu\\OneDrive\\Documentos\\2024\\Visual_Studio_Code\\pagina11\\pagina11.csproj",
+        "projectPath": "C:\\Users\\luigu\\OneDrive\\Documentos\\2024\\Visual_Studio_Code\\Pagina11\\pagina11.csproj",
         "packagesPath": "C:\\Users\\luigu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luigu\\OneDrive\\Documentos\\2024\\Visual_Studio_Code\\pagina11\\obj\\",
+        "outputPath": "C:\\Users\\luigu\\OneDrive\\Documentos\\2024\\Visual_Studio_Code\\Pagina11\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luigu\\AppData\\Roaming\\NuGet\\NuGet.Config",
