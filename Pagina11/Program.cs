@@ -3,7 +3,7 @@
     private static void Main(string[] args)
     {
          int Num, Aux, Dec, Uni;
-        string Linea;
+        
         System.Console.WriteLine("Ingrese nuemero de dos cifras");
        Num = int.Parse(Console.ReadLine());
        Dec = Num/10;
