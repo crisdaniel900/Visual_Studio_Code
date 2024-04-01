@@ -1,0 +1,15 @@
+C:\Users\luigu\OneDrive\Documentos\2024\Visual_Studio_Code\pagina16\bin\Debug\net8.0\pagina16.exe
+C:\Users\luigu\OneDrive\Documentos\2024\Visual_Studio_Code\pagina16\bin\Debug\net8.0\pagina16.deps.json
+C:\Users\luigu\OneDrive\Documentos\2024\Visual_Studio_Code\pagina16\bin\Debug\net8.0\pagina16.runtimeconfig.json
+C:\Users\luigu\OneDrive\Documentos\2024\Visual_Studio_Code\pagina16\bin\Debug\net8.0\pagina16.dll
+C:\Users\luigu\OneDrive\Documentos\2024\Visual_Studio_Code\pagina16\bin\Debug\net8.0\pagina16.pdb
+C:\Users\luigu\OneDrive\Documentos\2024\Visual_Studio_Code\pagina16\obj\Debug\net8.0\pagina16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luigu\OneDrive\Documentos\2024\Visual_Studio_Code\pagina16\obj\Debug\net8.0\pagina16.AssemblyInfoInputs.cache
+C:\Users\luigu\OneDrive\Documentos\2024\Visual_Studio_Code\pagina16\obj\Debug\net8.0\pagina16.AssemblyInfo.cs
+C:\Users\luigu\OneDrive\Documentos\2024\Visual_Studio_Code\pagina16\obj\Debug\net8.0\pagina16.csproj.CoreCompileInputs.cache
+C:\Users\luigu\OneDrive\Documentos\2024\Visual_Studio_Code\pagina16\obj\Debug\net8.0\pagina16.sourcelink.json
+C:\Users\luigu\OneDrive\Documentos\2024\Visual_Studio_Code\pagina16\obj\Debug\net8.0\pagina16.dll
+C:\Users\luigu\OneDrive\Documentos\2024\Visual_Studio_Code\pagina16\obj\Debug\net8.0\refint\pagina16.dll
+C:\Users\luigu\OneDrive\Documentos\2024\Visual_Studio_Code\pagina16\obj\Debug\net8.0\pagina16.pdb
+C:\Users\luigu\OneDrive\Documentos\2024\Visual_Studio_Code\pagina16\obj\Debug\net8.0\pagina16.genruntimeconfig.cache
+C:\Users\luigu\OneDrive\Documentos\2024\Visual_Studio_Code\pagina16\obj\Debug\net8.0\ref\pagina16.dll
